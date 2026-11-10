@@ -36,20 +36,24 @@ Olá! Este é o repositório central onde concentro todas as atividades, entrega
 
 > **Regra Geral:** Cada semana contém sua própria pasta e documentação detalhada (ex: `semana-01-git/`). Os projetos de médio/grande porte desenvolvidos ao longo da capacitação também possuem seus repositórios dedicados linkados abaixo.
 
-| Sem. | Período | Tema Principal | Status / Entrega | Peso 
-| :---: | :---: | :--- | :---: | :---: | :---: |
-| **01** | 03/11 a 10/11 | **Git e GitHub** | 🟢 Concluído | 5% |
-| **02** | 10/11 a 17/11 | **HTML e CSS**   | ⚪ A iniciar | 7% |
-| **03** | 17/11 a 01/12 | **TypeScript** | ⚪ A iniciar | 7% |
-| **04** | 01/12 a 08/12 | **Tailwind CSS** | ⚪ A iniciar | 6% |
-| **05** | 08/12 a 15/12 | **Angular Pt. 1** | ⚪ A iniciar | 8% | 
-| **06** | 15/12 a 22/12 | **Angular Pt. 2** | ⚪ A iniciar | 8% | 
-| **--** | 23/12 a 04/01 | *Recesso de Fim de Ano* | 🌴 Recesso | -- |
-| **07** | 05/01 a 12/01 | **Firebase** | ⚪ A iniciar | 6% | 
-| **08** | 12/01 a 19/01 | **MongoDB Pt. 1** | ⚪ A iniciar | 7% |
-| **10** | 26/01 a 29/01 | **Notion** | ⚪ A iniciar | 5% | 
-| **11-12** | 02/02 a 16/02 | **Projeto Final** | ⚪ A iniciar | 23% | 
-| **--** | *Avaliação Contínua* | **Postura & Participação** | 🟡 Em avaliação | 10% |
+<div align="center">
+
+| Semanas | Período | Conteúdo | Progresso |
+| :---: | :---: | :--- | :---: |
+| Semana 1 | 03/11 a 10/11 | Git e GitHub | 🔄 Em andamento |
+| Semana 2 | 10/11 a 17/11 | HTML e CSS | ⬜ Não iniciado |
+| Semana 3 | 17/11 a 01/12 | TypeScript | ⬜ Não iniciado |
+| Semana 4 | 01/12 a 08/12 | Tailwind CSS | ⬜ Não iniciado |
+| Semana 5 | 08/12 a 15/12 | Angular — Parte 1 | ⬜ Não iniciado |
+| Semana 6 | 15/12 a 22/12 | Angular — Parte 2 | ⬜ Não iniciado |
+| — | 23/12 a 04/01 | Recesso de fim de ano | — |
+| Semana 7 | 05/01 a 12/01 | Firebase | ⬜ Não iniciado |
+| Semana 8 | 12/01 a 19/01 | MongoDB — Parte 1 | ⬜ Não iniciado |
+| Semana 9 | 19/01 a 26/01 | MongoDB — Parte 2 | ⬜ Não iniciado |
+| Semana 10 | 26/01 a 29/01 | Notion | ⬜ Não iniciado |
+| Semanas 11–12 | 02/02 a 16/02 | Projeto final | ⬜ Não iniciado |
+
+</div>
 
 ---
 
