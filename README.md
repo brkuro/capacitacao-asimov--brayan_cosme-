@@ -70,7 +70,7 @@ Conforme as regras da capacitação, os projetos estruturados que evoluem ao lon
 ## 📬 Contato
 
 * **GitHub:** [@brkuro](https://github.com/brkuro)
-* **LinkedIn:** [Brayan Justiniano](www.linkedin.com/in/brayan-justiniano-de-oliveira-cosme-b65733308) 
+* **LinkedIn:** www.linkedin.com/in/brayan-justiniano-de-oliveira-cosme-b65733308
 * **E-mail:** `brayanjustinianooliveira59856@gmail.com`
 
 ---
