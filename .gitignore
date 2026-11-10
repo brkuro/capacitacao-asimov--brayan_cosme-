@@ -1,0 +1,15 @@
+*.o
+*.out
+*.exe
+
+node_modules/
+venv/
+.venv/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+dist/
+build/
