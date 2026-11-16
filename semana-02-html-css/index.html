@@ -12,7 +12,7 @@
   <header class="navbar">
     <nav aria-label="Menu Principal">
       <ul class="nav-links">
-        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="index.html">Home</a></li>
         <li><a href="portfolio.html">Portfolio</a></li>
         <li><a href="curriculo.html">Currículo</a></li>
         <li><a href="contato.html">Contato</a></li>
@@ -45,14 +45,6 @@
     <p>&copy; 2026 Brayan Justiniano — Capacitação Desktop Asimov Jr.</p>
   </footer>
 
-  <script>
-    const btn = document.getElementById('theme-toggle');
-    btn.addEventListener('click', () => {
-      const html = document.documentElement;
-      const isDark = html.getAttribute('data-theme') === 'dark';
-      html.setAttribute('data-theme', isDark ? 'light' : 'dark');
-      btn.textContent = isDark ? '🌙' : '☀️';
-    });
-  </script>
+  <script src="js/theme.js"></script>
 </body>
 </html>
