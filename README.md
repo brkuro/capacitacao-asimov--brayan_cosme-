@@ -42,7 +42,7 @@ Olá! Este é o repositório central onde concentro todas as atividades, entrega
 | :---: | :---: | :--- | :---: |
 | Semana 1 | 03/11 a 10/11 | Git e GitHub | ✅ Concluído |
 | Semana 2 | 10/11 a 17/11 | HTML e CSS | ✅ Concluído |
-| Semana 3 | 17/11 a 01/12 | TypeScript | ⬜ Não iniciado |
+| Semana 3 | 17/11 a 01/12 | TypeScript | 🔄 Em andamento |
 | Semana 4 | 01/12 a 08/12 | Tailwind CSS | ⬜ Não iniciado |
 | Semana 5 | 08/12 a 15/12 | Angular — Parte 1 | ⬜ Não iniciado |
 | Semana 6 | 15/12 a 22/12 | Angular — Parte 2 | ⬜ Não iniciado |
